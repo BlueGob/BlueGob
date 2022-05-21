@@ -20,10 +20,15 @@
 
 ### skills
 - 🐘 PHP
+
 - 🐍 Python
+
 - ☕ Java
+
 - 📱 Flutter
+
 - 💻 C/C++
+
 - 🖥️ HTML,CSS,Js
 
 <h3 align="left">Connect with me:</h3>
