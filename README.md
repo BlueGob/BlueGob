@@ -1,37 +1,15 @@
-
-<p align="center">
-  <img width="800" height="300" src="https://user-images.githubusercontent.com/59932913/169649891-30f2145e-d60e-40fb-beb7-b5fdcb00bd98.gif">
-</p>
+# 💫 About Me:
+🌱 I’m currently learning AI<br>👯 I’m looking to collaborate on open source projects<br>💬 Ask me about anything related to python C and php<br>📫 How to reach me moslemgannoun@gmail.com
 
 
-# Hi 👋, I'm Moslem Gannoun
-### A software engineer student from tunisia
+## 🌐 Socials:
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@moslemgannoun) 
 
-- 🌱 I’m currently learning **IOT**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BlueGob&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BlueGob&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueGob&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 👯 I’m looking to collaborate on **open source projects**
-
-- 💬 Ask me about **anything related to python C and php**
-
-- 📫 How to reach me **moslemgannoun@gmail.com**
-
-- ⚡ Fun fact **i used to hate progamming**
-
-
-### skills
-- 🐘 PHP
-
-- 🐍 Python
-
-- ☕ Java
-
-- 📱 Flutter
-
-- 💻 C/C++
-
-- 🖥️ HTML,CSS,Js
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/moslem.gannoun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moslem gannoun" height="30" width="40" /></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
